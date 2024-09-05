@@ -1,1 +1,3 @@
-### Prácticas en JavaScript
+# Prácticas en JavaScript
+
+## Calculadora en JS
